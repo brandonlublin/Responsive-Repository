@@ -1,0 +1,97 @@
+{
+    "files.autoSave": "onWindowChange",
+    "editor.cursorStyle": "line",
+    "window.zoomLevel": 1,
+    "editor.wordWrap": "on",
+    "files.associations": {
+        "*.js": "javascriptreact",
+        "*.module": "php",
+        "*.jsx": "javascriptreact",
+        "*.inc": "php",
+        "*.install": "php",
+        ".eslintconfig": "jsonc"
+    },
+
+    "emmet.triggerExpansionOnTab": true,
+    "autoimport.filesToScan": "**/*.{ts,tsx, js, jsx}",
+
+    // Prettier config
+    "prettier.singleQuote": true,
+    "prettier.useTabs": false,
+    "prettier.trailingComma": "es5",
+    "prettier.semi": true,
+    "prettier.stylelintIntegration": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.snippetSuggestions": "top",
+    "auto-rename-tag.activationOnLanguage": [
+        "html",
+        "xml",
+        "php",
+        "javascript",
+        "javascriptreact",
+    ],
+    "eslint.packageManager": "yarn",
+    "sync.gist": "a6781b4dd7b37eb98d2135e71506d332",
+    "sync.lastUpload": "2018-03-05T20:52:05.408Z",
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.lastDownload": "",
+    "sync.forceDownload": false,
+    "sync.host": "",
+    "sync.pathPrefix": "",
+    "sync.quietSync": false,
+    "sync.askGistName": false,
+    "sync.removeExtensions": true,
+    "sync.syncExtensions": true,
+    "workbench.iconTheme": "eq-material-theme-icons-palenight",
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#80CBC4",
+        "list.activeSelectionForeground": "#80CBC4",
+        "list.inactiveSelectionForeground": "#80CBC4",
+        "list.highlightForeground": "#80CBC4",
+        "scrollbarSlider.activeBackground": "#80CBC450",
+        "editorSuggestWidget.highlightForeground": "#80CBC4",
+        "textLink.foreground": "#80CBC4",
+        "progressBar.background": "#80CBC4",
+        "pickerGroup.foreground": "#80CBC4",
+        "tab.activeBorder": "#80CBC4",
+        "notificationLink.foreground": "#80CBC4",
+        "editorWidget.resizeBorder": "#80CBC4",
+        "editorWidget.border": "#80CBC4",
+        "settings.modifiedItemIndicator": "#80CBC4",
+        "settings.headerForeground": "#80CBC4",
+        "panelTitle.activeBorder": "#80CBC4",
+        "breadcrumb.activeSelectionForeground": "#80CBC4",
+        "menu.selectionForeground": "#80CBC4",
+        "menubar.selectionForeground": "#80CBC4"
+    },
+    "materialTheme.accent": "Teal",
+    "editor.fontLigatures": true,
+    "materialTheme.autoApplyIcons": true,
+    "editor.lineHeight": 24,
+    "explorer.decorations.badges": false,
+
+    "editor.tokenColorCustomizations": {
+        "[Material Theme Palenight High Contrast]": {
+            "textMateRules": [
+                {
+                    "scope": [
+                        "variable",
+                        "string constant.other.placeholder"
+                    ],
+                    "settings": {
+                        "foreground": "#e9f8f9"
+                    }
+                }
+            ]
+        }
+    },
+    "cSpell.userWords": [
+        "Fanpage"
+    ],
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Dracula"
+}
