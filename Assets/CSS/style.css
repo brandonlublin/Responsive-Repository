@@ -1,6 +1,7 @@
 html {
     position: relative;
     min-height: 100%;
+    background-image: url('/Assets/Images/white-waves.png');
 }
 body {
     margin: auto;
@@ -202,6 +203,7 @@ button {
     }
 }
 @media screen and (max-width: 640px) {
+    body 
     .mainBlock {
         margin: auto;
         margin-top: 20px;
